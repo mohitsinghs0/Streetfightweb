@@ -1,0 +1,10 @@
+{
+  "name": "Kinetic Clash",
+  "description": "Camera-controlled real-time 3D fighting game where your body is the controller using local pose detection.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
